@@ -1,0 +1,23 @@
+Supported:
+
+✅ Hex
+
+✅ Base64
+
+✅ Base32
+
+✅ Binary
+
+✅ ASCII Decimal
+
+✅ Octal
+
+✅ URL Encoding
+
+✅ HTML Entities
+
+✅ ROT13
+
+✅ Reverse string
+
+✅ Recursive decode (kung layered)
